@@ -1,0 +1,16 @@
+# Código de Conducta
+
+## Nuestro Compromiso
+En el interés de fomentar una comunidad abierta y acogedora, nosotros como contribuyentes y mantenedores nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos...
+
+## Nuestros Estándares
+Ejemplos de comportamiento que contribuyen a crear un ambiente positivo...
+
+## Responsabilidades de Ejecución
+Las responsabilidades de quienes monitorean y hacen cumplir el Código de Conducta...
+
+## Alcance
+Este Código de Conducta es aplicable tanto en espacios del proyecto como en espacios públicos...
+
+## Contacto
+Información para reportar violaciones al Código de Conducta...
