@@ -35,14 +35,14 @@ LecturaColectiva.org es un proyecto de código abierto y agradecemos cualquier t
 - **Documentación**: Mejora o traduce la documentación existente.
 - **Feedback**: Comparte tus ideas o reporta errores para ayudar a mejorar el proyecto.
 
-Para empezar, consulta nuestros documentos en `docs/` y `CONTRIBUTING.md` para más detalles sobre cómo puedes aportar al proyecto.
+Para empezar, consulta nuestros documentos en `docs/` y [CONTRIBUTING](/docs/CONTRIBUTING.md) para más detalles sobre cómo puedes aportar al proyecto.
 
 ## Contacto
 
-Si tienes preguntas, sugerencias o quieres saber más sobre cómo participar, no dudes en contactarnos a través de nuestro formulario de contacto.
+Si tienes preguntas, sugerencias o quieres saber más sobre cómo participar, no dudes en contactarnos a través de nuestro formulario de contacto. // TODO: Agregar enlace al formulario de contacto o sugerir un método de contacto.
 
 ## Licencia
 
-Este proyecto está liberado bajo la Licencia MIT - para más detalles, consulta el archivo [LICENSE](legal/LICENSE).
+Este proyecto está liberado bajo la Licencia MIT - para más detalles, consulta el archivo [LICENSE](legal/LICENSE.md).
 
 ¡Agradecemos tu interés y apoyo a LecturaColectiva.org! 🙌
