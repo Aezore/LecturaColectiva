@@ -47,6 +47,6 @@ Por favor, lee y sigue nuestro [Código de Conducta](/docs/CODE_OF_CONDUCT.md) p
 
 ## Licencia
 
-Este proyecto está liberado bajo la Licencia MIT - para más detalles, consulta el archivo [LICENSE](legal/LICENSE.md).
+Este proyecto está liberado bajo la Creative Commons Atribución-NoComercial (CC BY-NC) - para más detalles, consulta el archivo [LICENSE](legal/LICENSE.md).
 
 ¡Agradecemos tu interés y apoyo a LecturaColectiva.org! 🙌
