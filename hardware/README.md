@@ -22,7 +22,7 @@ Para construir el hardware del proyecto, necesitarás acceso a herramientas de f
 
 ## Contribuir
 
-Si deseas contribuir al desarrollo del hardware de LecturaColectiva.org, por favor revisa primero las [Políticas de Contribución](../docs/politicas_de_contribucion.md) del proyecto. Estamos especialmente interesados en mejoras en el diseño para aumentar la accesibilidad, sostenibilidad y eficiencia de los lockers.
+Si deseas contribuir al desarrollo del hardware de LecturaColectiva.org, por favor revisa primero las [Políticas de Contribución](../docs/CONTRIBUTING.md) del proyecto. Estamos especialmente interesados en mejoras en el diseño para aumentar la accesibilidad, sostenibilidad y eficiencia de los lockers.
 
 Para discutir ideas o compartir tus contribuciones, no dudes en abrir un *issue* o *pull request* en este repositorio, o contactarnos directamente a través de los detalles proporcionados en el [README principal](../README.md).
 

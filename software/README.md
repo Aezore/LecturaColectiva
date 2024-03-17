@@ -23,7 +23,7 @@ Para comenzar a trabajar con el software de LecturaColectiva.org, necesitarás c
 
 ## Contribuir
 
-Estamos abiertos a contribuciones que mejoren la funcionalidad, accesibilidad y experiencia de usuario de nuestra plataforma. Antes de contribuir, revisa nuestras [Políticas de Contribución](../docs/politicas_de_contribucion.md) para entender nuestros estándares y expectativas.
+Estamos abiertos a contribuciones que mejoren la funcionalidad, accesibilidad y experiencia de usuario de nuestra plataforma. Antes de contribuir, revisa nuestras [Políticas de Contribución](../docs/CONTRIBUTING.md) para entender nuestros estándares y expectativas.
 
 Para contribuir, puedes:
 - Reportar bugs o sugerir nuevas características abriendo *issues*.

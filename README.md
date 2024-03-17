@@ -41,6 +41,10 @@ Para empezar, consulta nuestros documentos en `docs/` y [CONTRIBUTING](/docs/CON
 
 Si tienes preguntas, sugerencias o quieres saber más sobre cómo participar, no dudes en contactarnos a través de nuestro formulario de contacto. // TODO: Agregar enlace al formulario de contacto o sugerir un método de contacto.
 
+## Código de Conducta
+
+Por favor, lee y sigue nuestro [Código de Conducta](/docs/CODE_OF_CONDUCT.md) para garantizar un ambiente seguro y respetuoso para todos los participantes del proyecto.
+
 ## Licencia
 
 Este proyecto está liberado bajo la Licencia MIT - para más detalles, consulta el archivo [LICENSE](legal/LICENSE.md).
